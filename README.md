@@ -15,7 +15,7 @@ Microsoft Office:
 - Office 2013 Professional Plus
 - Office 2016 Professional Plus
 
-The MIT License (MIT)
+# The MIT License (MIT)
 
 Copyright (c) 2015 Kasper Stad
 
